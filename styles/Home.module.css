@@ -6,8 +6,15 @@
   justify-content: center;
   flex-direction: column;
   gap: 10px;
+  overflow: visible;
 }
 
 .body > h1 {
   text-align: center;
+}
+
+.main {
+  height: 100vh;
+  width: 100vw;
+  overflow: visible;
 }
