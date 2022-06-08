@@ -16,7 +16,11 @@ const Home: NextPage = () => {
         <p>
           - A small website by <a href="https://mattglei.ch">Matt Gleich</a>
         </p>
-        <a href="https://photos.mattglei.ch/ghs">
+        <a
+          href="https://photos.mattglei.ch/ghs"
+          target="_blank"
+          rel="noreferrer"
+        >
           <button>Checkout the photos I took this year</button>
         </a>
       </div>
