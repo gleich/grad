@@ -5,4 +5,9 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
+  gap: 10px;
+}
+
+.body > h1 {
+  text-align: center;
 }
