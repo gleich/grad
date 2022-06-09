@@ -17,7 +17,7 @@ const Home: NextPage = () => {
           - A small website by <a href="https://mattglei.ch">Matt Gleich</a>
         </p>
         <a
-          href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          href="https://photos.mattglei.ch/ghs"
           target="_blank"
           rel="noreferrer"
         >
